@@ -4,7 +4,7 @@
 
 Team Profile Generator is a command-line-interface application, that allows the user to easily generate a team profile webpage for their office and group mates, featuring their basic ID and contact info. All the user is required to do is answer a series of prompted quesitons on the command line about each member, and an HTML file will automatically generate once finished. 
 
-The user is first prompted to answer questions about their team manager, then they may add as many engineers and interns as they like alongside their individual information. When they have finished adding all the team members that they would like to, they may open up their generated html document in the browser and view their new pre-styled team profile.
+The user is first prompted to select what kind of team member they would like to add, then they may add as many managers, engineers and interns as they like alongside their individual information. When they have finished adding all the team members that they would like to, they may open up their generated html document in the browser and view their new pre-styled team profile.
 
 Building this program brought all of the skills together I've been studying into one, including object oriented programming, jest, basic and quick CSS styling, and most of all, how to work and navigate within the terminal to build files as I shift from a front-end developer to a full-stack developer. 
 
