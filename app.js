@@ -96,9 +96,9 @@ const subMenu = () => {
 
             break;
 
-        case 'No more employees':
+        case 'I do not want to add any more employees today.':
 
-            render(employees)
+            fs.writeFileSync('./team.html', render(employees));
             // return;
             
     }

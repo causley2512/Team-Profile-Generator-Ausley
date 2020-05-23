@@ -27,14 +27,13 @@ Building this program brought all of the skills together I've been studying into
 * Open your generated HTML file in the browser to view your teams profile.
 
 ### Answer these Questions:
-![Image description]()
+![List of app questions executed in the terminal.](assets/README1.JPG)
 
 ### Generate a Team Profile:
-![Image description]()
+![A generated sample of a team profile.](assets/README2.JPG)
 
 ## Finished Product
-View a sample of the generated HTML at.<br>
-View a video demonstrating the application at.
+View a video demonstrating the application at https://youtu.be/x3T4oTLhq98.
 
 ## Technologies
 * HTML
